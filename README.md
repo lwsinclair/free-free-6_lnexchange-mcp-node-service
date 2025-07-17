@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-free-free-6-lnexchange-mcp-node-service-badge.png)](https://mseep.ai/app/mcp-mirror-free-free-6-lnexchange-mcp-node-service)
+
 # LnExchange MCP Node Service
 
 This is a Node.js service for interacting with the LnExchange API, providing spot trading functionality.
